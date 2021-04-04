@@ -1,3 +1,3 @@
 # Auto-tests-rev
 'Hello, World!' 
-'2nd commit'
+'stepik-auto-tests'
